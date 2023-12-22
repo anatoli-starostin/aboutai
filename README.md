@@ -1,3 +1,5 @@
+layout: post
+
 # aboutai
 Anatoly Starostin's AI blog
 
