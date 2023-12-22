@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Home
+title: AboutAI
 ---
 
-# aboutai
-Anatoly Starostin's AI blog
+**Anatoly Starostin's** AI blog
 
 test
 
