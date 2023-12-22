@@ -1,4 +1,7 @@
+---
 layout: post
+title: Home
+---
 
 # aboutai
 Anatoly Starostin's AI blog
