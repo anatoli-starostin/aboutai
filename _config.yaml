@@ -4,6 +4,9 @@ author: "Anatoly Starostin"
 
 theme: minima
 
+base_url: /aboutai
+repository: anatoli-starostin/aboutai
+
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 
