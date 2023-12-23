@@ -27,7 +27,7 @@ header_pages:
 
 include:
   - _pages
-  - _images
+  - assets
 
 exclude:
   - Gemfile
