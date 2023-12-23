@@ -15,4 +15,4 @@ test
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-[Link to image](./me.png)
+[Link to image](assets/me.png)
