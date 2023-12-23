@@ -8,8 +8,8 @@ base_url: /
 repository: anatoli-starostin/aboutai
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+github_username: anatoli-starostin
+linkedin_username: anatoly-starostin-12109b142
 rss: rss
 
 future: true
@@ -27,8 +27,9 @@ header_pages:
   - _pages/archive.md
 
 include:
-    - _pages
+  - _pages
 
-exclude: 
-    - .gitignore
-    - README.md
+exclude:
+  - Gemfile
+  - .gitignore
+  - README.md
