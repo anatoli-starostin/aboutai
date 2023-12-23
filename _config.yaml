@@ -12,6 +12,8 @@ github_username: jsanz
 linkedin_username: jsanz
 rss: rss
 
+future: true
+
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 
