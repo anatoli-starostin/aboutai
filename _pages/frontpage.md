@@ -5,14 +5,6 @@ title: Welcome
 list_title: My blog posts
 ---
 
-**Anatoly Starostin's** AI blog
+**to Anatoly Starostin's AI blog**
 
-test
-
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-This site was built using [GitHub Pages](https://pages.github.com/)
-
-[Link to image](/aboutai/assets/me.png)
+Here I plan to publish some research results in the field of AI, which, in my opinion, may be of interest to someone.
